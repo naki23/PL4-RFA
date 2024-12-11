@@ -1,3 +1,12 @@
+
+#! only used for AI responses, not actively updated
+#! last update on 2024-12-11 
+
+
+
+
+
+
 import numpy as np
 from datetime import datetime
 import matplotlib.pyplot as plt
